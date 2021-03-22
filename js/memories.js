@@ -5,4 +5,4 @@ $(function(){
         'navigationColor':['#fff'],
     });
 });
-loadAudioFile('../music/易烊千玺 - 宝贝.mp3');
+loadAudioFile('../music/2.mp3');
